@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "509354812661",
+    "firebase_url": "https://spot-forro.firebaseio.com",
+    "project_id": "spot-forro",
+    "storage_bucket": "spot-forro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509354812661:android:b885c0b9950d38dd",
+        "android_client_info": {
+          "package_name": "com.spotforro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509354812661-gng8i197no5ql8bbu3k28hrjkrpmak00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMof24iqvkamv1pwzgKPqmhaiV29ZkCck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509354812661-gng8i197no5ql8bbu3k28hrjkrpmak00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
